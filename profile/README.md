@@ -8,7 +8,7 @@ Crear software moderno, mantenible, que facilite la gestión de tareas.
 
 ## Proyectos
 
-- Fronent
+- Frontend
 - Server
 
 ## Tecnologías
